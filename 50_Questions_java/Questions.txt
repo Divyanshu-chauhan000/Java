@@ -1,0 +1,105 @@
+🔹 Beginner Level (Basic Java, OOP, File I/O)
+
+Simple Calculator – Basic arithmetic operations.
+
+To-Do List App (Console) – Add, delete, mark tasks as done.
+
+Unit Converter – Length, weight, temperature, etc.
+
+Number Guessing Game – Generate random number, get user input.
+
+Currency Converter – Static rates or real-time via API.
+
+Student Grading System – Input marks, calculate GPA.
+
+Library Management (Console) – Add, borrow, return books.
+
+ATM Interface – Simulate ATM operations.
+
+Quiz Application – Random questions, score tracking.
+
+Tic Tac Toe Game (Console) – 2-player game.
+
+🔹 Intermediate Level (Collections, OOP, File Handling)
+Contact Management System – Add/update/delete contacts.
+
+Bank Account Management – Deposit/withdraw, mini-statement.
+
+Inventory Management System – Stock tracking.
+
+Expense Tracker – Input expenses, view summary.
+
+Employee Payroll System – Basic salary calculations.
+
+Parking Lot System – Track vehicle entries and exits.
+
+Hotel Reservation System – Rooms booking logic.
+
+Student Report Card Generator – Generate printable report.
+
+Simple File Compressor/Decompressor – ZIP file handler.
+
+PDF Merger Tool – Merge PDFs using iText or Apache PDFBox.
+
+🔹 Advanced Level (JDBC, GUI, Threading, Networking)
+Chat Application (Socket Programming) – Client-server model.
+
+Multi-threaded Downloader – Download file in parts using threads.
+
+Desktop Notepad (JavaFX/Swing) – Basic text editor.
+
+E-Voting System – Register, vote, results.
+
+Quiz App (GUI + Database) – JavaFX + JDBC + MySQL.
+
+Student Attendance System – GUI + DB + auto calculations.
+
+Weather App (API Integration) – Fetch weather via API.
+
+Online Banking System – With authentication and transactions.
+
+Blog CMS (Console/GUI) – CRUD posts, store in DB.
+
+Task Scheduler – Schedule tasks at intervals.
+
+🔹 Real-World Inspired Mini-Apps
+Music Playlist Manager – Create, delete, shuffle playlists.
+
+File Explorer (GUI) – Browse and open files.
+
+Simple POS System – Bill items, calculate total and tax.
+
+Budget Planner App – Monthly/weekly budgeting.
+
+Digital Clock (GUI) – Update time dynamically.
+
+Pomodoro Timer – Countdown + task timer.
+
+Markdown Viewer – Read .md and display formatted.
+
+Task Reminder App – Reminder with alert system.
+
+Student Admission System – CRUD + database + unique ID.
+
+Digital Diary – Store encrypted entries locally.
+
+🔹 For Portfolio or Resume Boosting
+Portfolio Generator CLI Tool – Take user input, generate HTML.
+
+Code Snippet Manager – Save, edit, delete snippets.
+
+Resume Builder (JavaFX) – Form-based GUI → PDF export.
+
+GitHub Profile Analyzer – Integrate GitHub API.
+
+Currency Rate Tracker – Real-time data from exchange rate APIs.
+
+Java Regex Tester Tool – Test regex patterns live.
+
+Typing Speed Test – Measure WPM and accuracy.
+
+Flashcard Learning App – Store and quiz yourself on cards.
+
+Language Translator App – Integrate with Google Translate API.
+
+AI Chatbot (Basic Rule-based) – Use pattern matching, no ML.
